@@ -7,8 +7,8 @@ export default function App() {
 
      const [currentAccount, setCurrentAccount] = useState("");
       const [allWaves, setAllWaves] = useState([]);
-      // const contractAddress = "0x5FbDB2315678afecb367f032d93F642f64180aa3";
-   const contractAddress = "0x225c5324344E3BA13E18AefF101A7800e5Ec9480";
+   const contractAddress = "contract address"; 
+     //run npx hardhat run scripts/run.js
       /**
      * Cria uma variável para referenciar o conteúdo ABI!
      */
